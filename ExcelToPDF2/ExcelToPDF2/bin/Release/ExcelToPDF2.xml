@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ExcelToPDF2</name>
+    </assembly>
+    <members>
+        <member name="M:ExcelToPDF2.ExcelToPDF2.XLSConvertToPDF(System.String,System.String)">
+            <summary>
+            excel转换PDF
+            </summary>
+            <param name="sourceFile">原文件 如："D:\配方关联导入模板.xlsx"</param>
+            <param name="targetFile">目标文件 如："D:\配方关联导入模板.pdf"</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
